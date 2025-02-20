@@ -76,9 +76,6 @@ other = "Bluesky"
 
 # Also cover [community_using] if localizing this site
 
-[community_x_name]
-other = "X (formerly Twitter)"
-
 [community_youtube_name]
 other = "YouTube"
 
@@ -664,7 +661,5 @@ other = "Warning:"
 other = "Warning"
 
 [whatsnext_heading]
-<<<<<<< HEAD
 other = "What's next"
-=======
->>>>>>> 63bea92b4c (Adding localization string for community_bluesky_name)
+

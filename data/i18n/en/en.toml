@@ -661,3 +661,10 @@ other = "Warning:"
 other = "Warning"
 
 [whatsnext_heading]
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+other = "What's next"
+=======
+>>>>>>> 63bea92b4c (Adding localization string for community_bluesky_name)
+>>>>>>> update-footer-with-bluesky

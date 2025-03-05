@@ -266,10 +266,14 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 [[params.links.user]]
   name_key = "community_bluesky_name"
 <<<<<<< HEAD
+<<<<<<< HEAD
   url = "https://bsky.app/profile/kubernetes.io"
 =======
   url = "https://bsky.app/profile/kubernetes.bsky.social"
 >>>>>>> 766debcf12 (Adding Bluesky community to the footer)
+=======
+  url = "https://bsky.app/profile/kubernetes.io"
+>>>>>>> 8e876faea0afb1ca677c94dbeeabd3684f1ec0e6
   icon = "fa-brands fa-bluesky"
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
